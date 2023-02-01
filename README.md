@@ -1,2 +1,2 @@
 # JS Projetos
-Página com conceitos básico de JS com fins de aprendizado baseado no JAVASCRIPT&JQUERY
+Página com conceitos/projetos em JS com fins de aprendizado baseado em leituras do mesmo
