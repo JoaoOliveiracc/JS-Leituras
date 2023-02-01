@@ -1,7 +1,5 @@
-var title;
-var message;
-title = "Molly1s Special Offers";
-message = '<a href=\"sale.html\">25% off!</a>';
+var title = "Molly1s Special Offers";
+var message = '<a href=\"sale.html\">25% off!</a>';
 
 var elTitle = document.getElementById('title');
 elTitle.innerHTML = title;
