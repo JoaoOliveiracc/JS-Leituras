@@ -10,7 +10,7 @@ var sign = 'Montague House';
 var tiles = sign.length;
 var subTotal = tiles * 5;
 var shipping = 7;
-var grandTotal = subtotal + shipping;
+var grandTotal = subTotal + shipping;
 
 var el = document.getElementById('greeting');
 el.textContent = welcome;
@@ -21,8 +21,8 @@ elSign.textContent = sign;
 var elTiles = document.getElementById('tiles');
 elTiles.textContent = tiles;
 
-var elSubtotal = document.getElementById('subtotal');
-elSubtotal.textContent = '$' + subTotal;
+var elSubTotal = document.getElementById('subTotal');
+elSubTotal.textContent = '$' + subTotal;
 
 var elShipping = document.getElementById('shipping');
 elShipping.textContent = '$' + shipping;
