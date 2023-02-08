@@ -1,4 +1,4 @@
-var msg = 'Sign up to receive our neewletter for 10% off!';
+var msg = 'Sign up to receive our neewsletter for 10% off!';
 
 function updateMessage() {
     var el = document.getElementById('message');
